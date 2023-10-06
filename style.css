@@ -1,0 +1,95 @@
+
+nav{
+    display: flex;
+justify-content: space-between;
+padding-right: 100px;
+background-color: grey;
+color: white;
+}
+ul{
+   display: flex ;
+}
+li{
+    list-style-type: none;
+padding-right: 10px;
+font-size: 10px;
+}
+.container{
+    text-align: center;
+    background-image: url(W.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    color: white;
+    padding-top: 5px;
+}
+nav p{
+    padding-left:70px ;
+}
+li a {
+   text-decoration: none  ;
+    color: white;
+}
+.Acme{
+    color: orangered;
+font-size: 15px;
+}
+.home{
+    color: orangered;
+    font-size: 10px;
+}
+.table{
+    background-color: grey;
+    color: white;
+    padding-left:70px ;
+padding-top: 2px;
+padding-bottom: 2px;
+padding-right: 100px;
+display: flex;
+justify-content: space-between;
+}
+.boat{
+    text-align: center;
+    background-color: orangered;
+    color: white;
+    font-size: small;
+padding-bottom: 10px;
+padding-top: 10px
+}
+
+.seat{
+text-align: center;
+display: flex;
+}
+.email{
+    padding-top: 10px;
+}
+button{
+    background-color: orangered;
+    color: white;
+}
+figure img{
+    width: 60px;
+    height: 60px;
+}
+
+.sub_unit{
+    width: 30%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.seat{
+    display: flex;
+}
+.figcaption{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.space{
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+.unit{
+    padding: 50px;
+}
